@@ -1,0 +1,6 @@
+C:\Users\Kuni\Desktop\c2.1\c2.1\bin\Debug\c2.1.exe.config
+C:\Users\Kuni\Desktop\c2.1\c2.1\bin\Debug\c2.1.exe
+C:\Users\Kuni\Desktop\c2.1\c2.1\bin\Debug\c2.1.pdb
+C:\Users\Kuni\Desktop\c2.1\c2.1\obj\Debug\c2.1.csprojResolveAssemblyReference.cache
+C:\Users\Kuni\Desktop\c2.1\c2.1\obj\Debug\c2.1.exe
+C:\Users\Kuni\Desktop\c2.1\c2.1\obj\Debug\c2.1.pdb
