@@ -1,0 +1,9 @@
+c:\users\igor\documents\visual studio 2010\Projects\Zad 4.2\Zad 4.2\bin\Debug\Zad 4.2.exe
+c:\users\igor\documents\visual studio 2010\Projects\Zad 4.2\Zad 4.2\bin\Debug\Zad 4.2.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Zad 4.2\Zad 4.2\obj\x86\Debug\Zad 4.2.exe
+c:\users\igor\documents\visual studio 2010\Projects\Zad 4.2\Zad 4.2\obj\x86\Debug\Zad 4.2.pdb
+D:\ws\zadanie4\ZaawansowaneProgramowanieObiektowe-Zadanie4-master\Zad 4.2\Zad 4.2\obj\x86\Debug\Zad 4.2.exe
+D:\ws\zadanie4\ZaawansowaneProgramowanieObiektowe-Zadanie4-master\Zad 4.2\Zad 4.2\obj\x86\Debug\Zad 4.2.pdb
+D:\ws\zadanie4\ZaawansowaneProgramowanieObiektowe-Zadanie4-master\Zad 4.2\Zad 4.2\obj\x86\Debug\Zad 4.2.csprojResolveAssemblyReference.cache
+D:\ws\zadanie4\ZaawansowaneProgramowanieObiektowe-Zadanie4-master\Zad 4.2\Zad 4.2\bin\Debug\Zad 4.2.exe
+D:\ws\zadanie4\ZaawansowaneProgramowanieObiektowe-Zadanie4-master\Zad 4.2\Zad 4.2\bin\Debug\Zad 4.2.pdb
